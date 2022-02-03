@@ -36,3 +36,27 @@ body{
     padding: 0.5em;
     border-right:1px white solid;
 }
+
+#main{
+    margin-left: 2%;
+    overflow: hidden;
+    clear: both;
+}
+#content{
+    float: left;
+    width: 65%;
+    text-align: justify;
+
+}
+#right-section{
+    float:right;
+    width: 30%;
+    background-color: #E0E0E0;
+    padding-top: 1%;
+    padding-left:2%;
+    padding-right: 2%;
+    padding-bottom: 17.5%;
+}
+.heading-color{
+    color:#003D60;
+}
