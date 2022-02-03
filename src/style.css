@@ -57,6 +57,11 @@ body{
     padding-right: 2%;
     padding-bottom: 17.5%;
 }
+#footer{
+    text-align: right;
+    background-color: #CCCCCC;
+    padding:0.7em;
+}
 .heading-color{
     color:#003D60;
 }
